@@ -4,7 +4,7 @@
 
 Upload your shop's sales file (CSV or Excel) and understand your business in minutes: no coding, no paid software.
 
-**Live app:** _add your Streamlit link here_
+**Live app:** (https://shop-insights.streamlit.app/)
 
 ## Why I built it
 Small shops keep sales records but can't afford analytics tools. This app turns a plain sales file into answers:
